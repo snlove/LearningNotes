@@ -7,7 +7,7 @@
 
 
 ##SurfaceView的绘图机制
-* 一般会与SurfaceView结合使用
+* 一般会与SurfaceHolder结合使用
 * 调用SurfaceView的getHolder()方法即可获得SurfaceView关联的SurfaceHolder
 
 ##SurfaceHolder提供了如下方法来获取Canvas对象
